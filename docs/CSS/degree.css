@@ -1,0 +1,73 @@
+header {
+    background-color: black;
+    color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid white;
+}
+header nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.fondo img {
+    width: 80%; 
+    height: auto; 
+    display: block; 
+    top: 100px;
+}
+.texto h3{
+    color: black;
+    font-weight: normal;
+    font-family:'Montserrat', sans-serif;
+    font-size: 1.2rem;
+}
+.texto h1{
+    font-family:'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+.texto h2{
+    color: black;
+    font-weight: normal;
+    font-family:'Montserrat', sans-serif;
+    font-size: 1.2rem;
+}
+.container {
+    width: 100%; 
+    display: flex; 
+    justify-content: center; 
+    padding-bottom: 20px;
+}
+.center-button { 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+}
+.footer {
+    background-color: black;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 30px;
+}
+.footer a:hover {
+    color:black;
+    
+}
+.footer-container {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 19px;
+    width: 100%;
+    margin-left: 10px;
+}
+.footer a, footer p {
+    color: white;
+    font-weight: normal;
+    font-family:'Montserrat', sans-serif;
+}
