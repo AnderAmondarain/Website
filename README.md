@@ -8,7 +8,7 @@ This is the repository for the practical work II.
 
 -Added header.
 
--Added  index file.
+-Added index file.
 
 -Added images and content for the section.
 
