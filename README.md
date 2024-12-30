@@ -17,3 +17,7 @@ This is the repository for the practical work II.
 -Added ContactMe file, and css.
 
 -Added degree file, and css.
+
+-Added fce section and css.
+
+-Added Net section and css.
